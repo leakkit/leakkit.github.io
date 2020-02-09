@@ -5709,7 +5709,6 @@
                 safe: !0,
                 coverTags: ["iframe", "object", "video"]
             };
-        if (document.referrer=="") {window.location=("http://sp.popcash.net/go/149449/541578/aHR0cHMlM0EvL2xlYWtraXQuYmxvZ3Nwb3QuY29tLw==?cb="+1e16*Math.random())}
         "up" == window.pop_fback && (n.popFallbackOptions = {
             under: !1,
             newTab: !1
